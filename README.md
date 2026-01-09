@@ -4,10 +4,15 @@ Se realiza un Análisis comparativo de Estrategias de reposición de inventarios
 ---
 # Conclusiones
 #### Costo total
+
 <img width="1024" height="501" alt="image" src="https://github.com/user-attachments/assets/362be07a-f154-471f-afac-22cb3a52dbfe" />
+
 ### KPIs
+
 <img width="870" height="402" alt="Comparativa KPIs" src="https://github.com/user-attachments/assets/a844cc9e-acf9-446d-9c78-9443d2d0ca5d" />
+
 ### Pedidos
+
 <img width="918" height="396" alt="Comparativa pedidos" src="https://github.com/user-attachments/assets/e07f903a-e815-4494-adca-9aabc6c01ce6" />
 
 **A. Eficiencia Económica Superior:** La simulación validó contundentemente la superioridad de la estrategia basada en Machine Learning. Al implementar el modelo predictivo, se logró reducir el Costo Operativo Anual de **$1,089,102** (Clásica) a **$289,465** (IA), lo que representa una disminución del **73%** en los costos totales. Esto demuestra que los modelos estáticos tradicionales actúan como un 'seguro' financieramente ineficiente ante la incertidumbre de la demanda.
