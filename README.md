@@ -61,6 +61,7 @@ A clear transition towards a *Just-in-Time* philosophy. The AI model fragmented 
 * **Static models act as expensive insurance:** Designing thresholds based on historical averages leads to massive over-stocking in uncertain environments.
 * **The Sweet Spot:** The AI effectively anticipated stochastic variability, drastically reducing immobilized capital without missing a single sale.
 
+---
 
 <div align="center">
   <h1 id="español">🚀 Digital Twin & ML Inventory Optimization</h1>
